@@ -45,5 +45,4 @@ Part 1 focuses on building the foundational website structure and content:
 ## References
 
 - HTML5 semantic structure
-- Basic CSS layout techniques
 - Web accessibility and responsive design principles
