@@ -1,4 +1,9 @@
-# Web Part 1
+# Part 1 Building the foundation.
+
+## Student Information
+
+- **Name:** Trevor Kabe
+- **Student Number:** St10503290
 
 ## Project Overview
 
@@ -44,5 +49,3 @@ Part 1 focuses on building the foundational website structure and content:
 
 ## References
 
-- HTML5 semantic structure
-- Web accessibility and responsive design principles
